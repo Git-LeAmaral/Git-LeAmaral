@@ -1,4 +1,9 @@
-## Olá! Sou Leandro Amaral e seja bem vindo ao meu GitHub.💻
+# Hi! I'm Leandro Amaral
+
+## I'm Web Development Student💻
+For now I'm able to code using `.HTML`, `.CSS`
+<br>
+AND currently I'm studying lot of `.JS` and `.REACT`
 <div>
   <a href="https://github.com/Git-LeAmaral">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Git-LeAmaral&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -14,7 +19,7 @@
   
  <br>
  
-  ## Para entrar em contato comigo clique redes abaixo!
+  ## To contact me click on the networks bellow!
  
 <div> 
   <a href = "mailto:lramaral02m@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
