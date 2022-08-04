@@ -1,4 +1,4 @@
-# Hi! I'm Leandro Amaral
+![Bem Vindos ao meu Git]https://github.com/Git-LeAmaral/Git-LeAmaral/blob/main/Banner.xcf
 
 ## I'm Web Development Student💻
 For now I'm able to code using `.HTML`, `.CSS`
