@@ -1,4 +1,4 @@
-# Hi Welcome to my GitHub
+# Hi! Welcome to my GitHub
 
 ## I'm Web Development Student💻
 For now I'm able to code using `.HTML`, `.CSS`
