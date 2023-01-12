@@ -5,11 +5,12 @@ For now I'm able to code using `.HTML`, `.CSS`
 <br>
 AND currently I'm studying lot of `.JS` and `.REACT`
 
-<div align="center">
-  <a href="https://github.com/Git-LeAmaral">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Git-LeAmaral&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Git-LeAmaral&layout=compact&langs_count=7&theme=great-gatsby"/>
-</div>
+<p align="center">
+<a href="https://github.com/Git-LeAmaral">
+  <img height="180rem" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Git-LeAmaral&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
+  <img height="180rem" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Git-LeAmaral&layout=compact&langs_count=8&theme=nord"/>
+</a>
+</p>
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
