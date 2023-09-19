@@ -1,6 +1,6 @@
 # Hi! Welcome to my GitHub
 
-## I'm Web Development Student💻
+## I'm Backend Development Student💻
 For now I'm able to code using `.HTML`, `.CSS`
 <br>
 AND currently I'm studying lot of `.JS` and `.REACT`
