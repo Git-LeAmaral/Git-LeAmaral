@@ -1,6 +1,14 @@
-# 👋 Olá! Seja bem-vindo ao meu GitHub!
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=6:DB1DE5,50:220140,100:DB1DE5&section=header" width="100%"/>
+</p>
 
-## 💼 Desenvolvedor Full Stack na Cogna Educação  
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=50&size=25&pause=1000&color=0D0D54&center=true&width=1000&lines=-------------------------------------------------------------------------------------------------" alt="Typing SVG" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=5000&pause=1000&color=7D7DE8&size=22&width=435&lines=Oi,+eu+sou+o+Leandro!;Bem-vindo(a)+ao+meu+GitHub!;Desenvolvedor+Full+Stack,;apaixonado+por+tecnologia." alt="Typing SVG" />
+</p>
+
+
 Atualmente atuo com foco em **desenvolvimento full stack**, utilizando tecnologias como:  
 🟦 Node.js • TypeScript • React • Next.js • Prisma/Sequelize • PostgreSQL  
 Tenho experiência prática no desenvolvimento de aplicações web completas, com foco em performance, experiência do usuário e boas práticas.
@@ -20,12 +28,13 @@ Sistema de agendamento médico com:
 
 ---
 
-## 📊 Estatísticas do GitHub
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> Estatística
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Git-LeAmaral&show_icons=true&theme=radical&count_private=true&hide_title=true" height="180em"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Git-LeAmaral&layout=compact&langs_count=6&theme=radical&hide_title=true" height="180em"/>
-</p>
+<div>
+<a href="https://github.com/Git-LeAmaral"> </a>
+<img height="280em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Git-LeAmaral&layout=compact&cache_seconds=1800&langs_count=20&show_icons=true&title_color=B77EFF&icon_color=9640FF&text_color=fff&bg_color=30,054D09,3E0794"/>
+<img height="240em" src="https://github-readme-stats.vercel.app/api?username=Git-LeAmaral&show_icons=true&cache_seconds=1800&count_private=true&disable_animations=false&title_color=B77EFF&icon_color=9640FF&text_color=fff&bg_color=40,3E0794,054D09"/>
+</div>
 
 ---
 
